@@ -4,7 +4,7 @@ I consider myself a versatile professional with a large IT background and over 2
 
 - 🔭 I’m currently working on my Data Science skills and my repositories are plenty of cool solutions.
 - 🌱 I’m currently studying Machine Learning, Computer Vision, and other related things. 
-- 📫 How to reach me: contato@leandrodaniel.com
+- 📫 How to reach me: contato@leandrodaniel.com.
 - ⚡ Fun fact: I love playing guitar and other instruments, like ukulele, kalimba, and more.
 
-Visit my website at http://leandrodaniel.com
+Visit my website at http://leandrodaniel.com.
