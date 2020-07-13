@@ -1,9 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub Profile! 👋
 
-<!--
-**ldaniel/ldaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I consider myself a versatile professional with a large IT background and over 20 years of work experience performing different tasks and jobs in software development and architecture. Since 1998 I have been involved with Software Development as a developer, technical leader and architect.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
