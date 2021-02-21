@@ -8,3 +8,7 @@ I consider myself a versatile professional with a large IT background and over 2
 - ⚡ Fun fact: I love playing guitar and other instruments, like ukulele, kalimba, and more.
 
 Visit my website at http://leandrodaniel.com.
+
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=ldaniel&hide=issues&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldaniel&layout=compact&theme=radical"/>
