@@ -9,5 +9,4 @@ I consider myself a versatile professional with a large IT background and over 2
 
 Visit my website at http://leandrodaniel.com.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ldaniel&hide=issues&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldaniel&layout=compact&theme=radical"/>
